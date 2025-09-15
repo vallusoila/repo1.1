@@ -26,10 +26,22 @@ Katson vapaa-ajalla paljon jalkapalloa. Lempijoukkueeni on Barcelona.
 
 - **Jääkiekko**
 
-Jääkiekkoa olen harrastanut koko lapsuuteni. Seuraan myös NHL pelei. Lempipelaajani on Patrick Kane
+ olen harrastanut jääkiekkoa koko lapsuuteni. Seuraan myös NHL pelei. Lempipelaajani on Patrick Kane.
 
 ---
 
+### Minun Top 3 Musiikki kategoriat
 
+1. Rap
+
+---
+
+2. R & B
+
+---
+
+3. Rock
+
+---
 
 
