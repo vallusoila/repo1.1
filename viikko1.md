@@ -1,11 +1,9 @@
 # Esittely
 ```markdown
-{
   "Etunimi": "Vallu",
   "Sukunimi": "Soila",
   "Ikä": 21
   "Kotipaikka": Oulunsalo
-}
 ```
 ---
 
