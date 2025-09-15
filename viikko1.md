@@ -20,13 +20,13 @@
 
 - **Jalkapallo**:
 
-Katson vapaa-ajalla paljon jalkapalloa. Lempijoukkueeni on Barcelona.
+Katson vapaa-ajalla paljon jalkapalloa. Lempijoukkueeni on FC Barcelona.
 
 ---
 
 - **Jääkiekko**
 
- olen harrastanut jääkiekkoa koko lapsuuteni. Seuraan myös NHL pelei. Lempipelaajani on Patrick Kane.
+ Harrastin jääkiekkoa koko lapsuuteni.  Seuraan myös paljon NHL pelejä. Lempipelaajani on Patrick Kane.
 
 ---
 
