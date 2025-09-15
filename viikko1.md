@@ -4,8 +4,10 @@
   "Sukunimi": "Soila",
   "Ikä": 21
   "Kotipaikka": Oulunsalo
-  "Valmistunut Oulunsalon Lukiosta"
 ```
+
+>Valmistunut Oulunsalon Lukiosta
+
 ---
 
 ![Kuva](image.png)
