@@ -4,6 +4,7 @@
   "Sukunimi": "Soila",
   "Ikä": 21
   "Kotipaikka": Oulunsalo
+  "Valmistunut Oulunsalon Lukiosta"
 ```
 ---
 
@@ -17,16 +18,16 @@
 
 ## Kiinnostukset
 
----
-
 - **Jalkapallo**
+Katson vapaa-ajalla paljon jalkapalloa. Lempijoukkueeni on Barcelona.
 
 ---
 
 - **Jääkiekko**
+Jääkiekkoa olen harrastanut koko lapsuuteni. Seuraan myös NHL pelei. Lempipelaajani on Patrick Kane
+
+---
 
 
-
---
 
 
