@@ -36,7 +36,7 @@ Katson vapaa-ajalla paljon jalkapalloa. Lempijoukkueeni on Barcelona.
 
 ---
 
-2. R & B
+2. R&B Rap
 
 ---
 
